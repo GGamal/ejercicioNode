@@ -1,0 +1,13 @@
+Crear un proyecto con Node, realice las configuraciones necesarias y haga lo siguiente:
+1) Agregue el archivo agenda.js.
+2) Cree las siguientes funciones: 
+	2.1) Mostrar la cantidad de teléfonos en la agenda telefónica.
+	2.2) Mostrar los datos de la agenda COMPLETA.
+	2.3) Mostrar los datos de una persona en particular pasando por parámetro el id.
+	2.4) Mostrar los datos de una persona pasando por parámetro el número de teléfono.
+	2.5) Agregar un nuevo registro en la agenda telefónica con id, nombre y número de un nuevo contacto.
+	2.6) Borrar un registro según el número de teléfono.
+	2.7) Borrar un registro según el id.
+	2.8) Modificar el nombre de un registro según el id pasado por parámetro.
+	2.9) Modificar el nombre y número de un registro según el id pasado junto con todos los datos.
+
